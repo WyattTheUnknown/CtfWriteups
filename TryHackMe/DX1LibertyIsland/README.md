@@ -156,7 +156,7 @@ After googling to check if the version of VNC on port 5901 had any vulnerabiliti
 
 ## Web Server Exploitation
 
-The first thing I did was look through robots.txt in full this time to see if there if there was anything that nmap didn't catch
+The first thing I did was look through robots.txt in full this time to see if there was anything that nmap didn't catch
 
 We can see that there is a message left by someone named Alex noting that instead of blocking crawlers in robots.txt, they should just block access altogether
 
