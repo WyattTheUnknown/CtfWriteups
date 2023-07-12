@@ -449,7 +449,7 @@ nc -lnvp 4444 (in new terminal window)
 ./badactors-list (back in original window)
 ```
 
-In the netcat listner we can see a post request being made with a `Clearance-Code` header containing a value and also a `directive` parameter with a command to be executed. One of the same ones we saw earlier in the binary!
+In the netcat listener we can see a post request being made with a `Clearance-Code` header containing a value and also a `directive` parameter with a command to be executed. One of the same ones we saw earlier in the binary!
 
 ![Command in request](Images/commandsinrequest.png)
 
